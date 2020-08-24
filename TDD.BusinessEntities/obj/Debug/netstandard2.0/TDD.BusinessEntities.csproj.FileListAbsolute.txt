@@ -1,0 +1,30 @@
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.deps.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.AssemblyInfo.cs
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.deps.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.AssemblyInfo.cs
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.deps.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.csprojAssemblyReference.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.AssemblyInfo.cs
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.deps.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.BusinessEntities\bin\Debug\netstandard2.0\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.csprojAssemblyReference.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.AssemblyInfo.cs
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.BusinessEntities\obj\Debug\netstandard2.0\TDD.BusinessEntities.pdb

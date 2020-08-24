@@ -1,0 +1,80 @@
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.csprojAssemblyReference.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.AssemblyInfoInputs.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.AssemblyInfo.cs
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.deps.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.runtimeconfig.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.runtimeconfig.dev.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.dll.config
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.csproj.CopyComplete
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\POC.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.deps.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.runtimeconfig.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.runtimeconfig.dev.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.dll.config
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.csprojAssemblyReference.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.AssemblyInfoInputs.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.AssemblyInfo.cs
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\POC.DesignPattern\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.csproj.CopyComplete
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.deps.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.runtimeconfig.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.runtimeconfig.dev.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.dll.config
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.csprojAssemblyReference.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.AssemblyInfoInputs.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.AssemblyInfo.cs
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.csproj.CopyComplete
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD MOQ Repos\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.deps.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.runtimeconfig.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.runtimeconfig.dev.json
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.UnitTests.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.BusinessEntities.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.BusinessEntities.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.pdb
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\bin\Debug\netcoreapp2.1\TDD.Business.dll.config
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.csprojAssemblyReference.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.AssemblyInfoInputs.cache
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.AssemblyInfo.cs
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.csproj.CopyComplete
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.dll
+C:\Users\tilekaks\OneDrive - Tieto Corporation\Projects\TDD\TDD.Business.UnitTests\obj\Debug\netcoreapp2.1\TDD.Business.UnitTests.pdb
