@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.Business.UnitTests\\TDD.Business.UnitTests.csproj": {}
+    "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.Business.UnitTests\\TDD.Business.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.Business.UnitTests\\TDD.Business.UnitTests.csproj": {
+    "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.Business.UnitTests\\TDD.Business.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.Business.UnitTests\\TDD.Business.UnitTests.csproj",
+        "projectUniqueName": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.Business.UnitTests\\TDD.Business.UnitTests.csproj",
         "projectName": "TDD.Business.UnitTests",
-        "projectPath": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.Business.UnitTests\\TDD.Business.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\tilekaks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.Business.UnitTests\\obj\\",
+        "projectPath": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.Business.UnitTests\\TDD.Business.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.Business.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tilekaks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,12 +30,13 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj": {
-                "projectPath": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj"
+              "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj": {
+                "projectPath": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj"
               },
-              "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.Business\\TDD.Business.csproj": {
-                "projectPath": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.Business\\TDD.Business.csproj"
+              "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.Business\\TDD.Business.csproj": {
+                "projectPath": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.Business\\TDD.Business.csproj"
               }
             }
           }
@@ -47,6 +49,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -85,24 +88,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj": {
+    "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj",
+        "projectUniqueName": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj",
         "projectName": "TDD.BusinessEntities",
-        "projectPath": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj",
-        "packagesPath": "C:\\Users\\tilekaks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.BusinessEntities\\obj\\",
+        "projectPath": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.BusinessEntities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tilekaks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,6 +118,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -125,6 +130,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -143,28 +149,27 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.Business\\TDD.Business.csproj": {
-      "version": "1.0.0",
+    "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.Business\\TDD.Business.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.Business\\TDD.Business.csproj",
+        "projectUniqueName": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.Business\\TDD.Business.csproj",
         "projectName": "TDD.Business",
-        "projectPath": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.Business\\TDD.Business.csproj",
+        "projectPath": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.Business\\TDD.Business.csproj",
         "frameworks": {
-          "net461": {
+          "net48": {
             "projectReferences": {
-              "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj": {
-                "projectPath": "C:\\Users\\tilekaks\\OneDrive - Tieto Corporation\\Projects\\TDD\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj"
+              "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj": {
+                "projectPath": "D:\\Akshay\\Unit Testing\\TDD-unit-test-repository\\TDD.BusinessEntities\\TDD.BusinessEntities.csproj"
               }
             }
           }
         }
       },
       "frameworks": {
-        "net461": {}
+        "net48": {}
       }
     }
   }
